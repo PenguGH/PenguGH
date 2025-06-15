@@ -39,7 +39,9 @@ jobs:
           plugin_languages_details: percentage
           plugin_languages_ignored: html, css
           # plugin_languages_ignored: html, css, java, shell, lua
-          plugin_languages_limit: 8
+
+          # number of languages shown
+          plugin_languages_limit: 6
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
