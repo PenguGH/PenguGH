@@ -7,7 +7,7 @@
 </th>
 
 <th justify="center" align="left" width="160">
-  <!--- Languages --->
+  <!--- Languages & Frameworks --->
   
 <!-- 🌐 Frontend -->
 <picture><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></picture>
