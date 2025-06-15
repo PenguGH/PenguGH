@@ -38,7 +38,7 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_details: percentage
           plugin_languages_ignored: html, css
-          # plugin_languages_ignored: html, css, java, shell, lua
+          # plugin_languages_ignored: html, css, java, shell, lua 
 
           # number of languages shown
           plugin_languages_limit: 6
