@@ -3,7 +3,7 @@
   <!--- Metrics --->
 <th align="center" width="480">
 
-[![Metrics](/github-metrics.svg)]
+![Metrics](/github-metrics.svg)
 </th>
 
 <th justify="center" align="left" width="160">
