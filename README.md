@@ -19,8 +19,8 @@
 <picture><img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"></picture>
 <picture><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></picture>
 <picture><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></picture>
-<picture><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"></picture>
-<picture><img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"></picture>
+<picture><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></picture>
+<picture><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></picture>
 <picture><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></picture>
 
 -----
